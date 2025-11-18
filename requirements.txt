@@ -1,0 +1,5 @@
+transformers==4.44.2
+datasets==2.20.0
+torch>=2.0
+flask==3.0.3
+huggingface_hub>=0.34.0,<1.0
